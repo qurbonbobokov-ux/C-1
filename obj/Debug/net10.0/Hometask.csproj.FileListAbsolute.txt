@@ -1,0 +1,14 @@
+/Users/user/Desktop/C# Cource/Day 2/Hometask/bin/Debug/net10.0/Hometask
+/Users/user/Desktop/C# Cource/Day 2/Hometask/bin/Debug/net10.0/Hometask.deps.json
+/Users/user/Desktop/C# Cource/Day 2/Hometask/bin/Debug/net10.0/Hometask.runtimeconfig.json
+/Users/user/Desktop/C# Cource/Day 2/Hometask/bin/Debug/net10.0/Hometask.dll
+/Users/user/Desktop/C# Cource/Day 2/Hometask/bin/Debug/net10.0/Hometask.pdb
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/Hometask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/Hometask.AssemblyInfoInputs.cache
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/Hometask.AssemblyInfo.cs
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/Hometask.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/Hometask.dll
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/refint/Hometask.dll
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/Hometask.pdb
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/Hometask.genruntimeconfig.cache
+/Users/user/Desktop/C# Cource/Day 2/Hometask/obj/Debug/net10.0/ref/Hometask.dll
